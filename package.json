@@ -1,0 +1,29 @@
+{
+  "name": "flexapi-dom",
+  "version": "0.0.0-1",
+  "description": "Flexible API and Facade generator. Maps an HTML Dom to a simple interface",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^2.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.4"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cellanda/flexapi-dom-js.git"
+  },
+  "author": "Terry Pothecary",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cellanda/flexapi-dom-js/issues"
+  },
+  "homepage": "https://github.com/cellanda/flexapi-dom-js"
+}
